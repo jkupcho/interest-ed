@@ -1,0 +1,5 @@
+---
+applications:
+  - name: interest-ed
+    buildpack: java_buildpack
+    path: target/interest-ed-0.0.1.jar
